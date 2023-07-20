@@ -34,7 +34,7 @@ public class CommonFunctions {
 		
 		loadpropertyFile();
 		
-		String browser = properties.getProperty("broWser");
+		String browser = properties.getProperty("browser");
 		String url = properties.getProperty("url");
 		String driverlocation=properties.getProperty("driverlocation");
 
